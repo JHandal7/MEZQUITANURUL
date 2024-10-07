@@ -1,305 +1,803 @@
 {
    "result":[
+
       {
          "id":"1",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
-         "title":"Jubilee",
-         "thumbnail":"https://m.media-amazon.com/images/S/pv-target-images/9e39552f26c52760492026c8f36116928ac3a2b3bb1bb5ab0e187aac69361fab._UR2000,3000_.jpg",
-         "banner":"https://m.media-amazon.com/images/S/pv-target-images/1ec963e832611fd653f827ba64eb4ab44034fa88a25b014b7a7f1844880937c4._UR1920,1080_.jpg"
+         "trailer_url":"https://ninjaerp.com/HolyQuran/001-al-fatihah.mp3",
+         "title":"001-Al_Fatiha          La Apertura",
+         "thumbnail":"http://ninjaerp.com/testingimages/AdobeStock_498213285_Preview.jpeg",
+         "banner":""
       },
       {
          "id":"1",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
-         "title":"The Power",
-         "thumbnail":"https://m.media-amazon.com/images/S/pv-target-images/d5f46c87921f6a416c02a8d99200ec6269f7473d744fadd701a1e9f2fd43509c._UR2000,3000_.png",
-         "banner":"https://m.media-amazon.com/images/S/pv-target-images/0345e3278ea8e894adc93093199a0c2b83078e54ba703eb37074a68ab9edde08._UR1920,1080_.jpg"
+         "trailer_url":"https://ninjaerp.com/HolyQuran/002-al-baqarah.mp3",
+         "title":"002-Al-Baqarah          La Vaca",
+         "thumbnail":"http://ninjaerp.com/testingimages/AdobeStock_498213285_Preview.jpeg",
+         "banner":""
       },
       {
          "id":"1",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
-         "title":"Class of &#39;07",
-         "thumbnail":"https://m.media-amazon.com/images/S/pv-target-images/e289a847c276200fa731a65eba22da89ecf1a093fc0b03620207c2a72732f9ff._UR2000,3000_.jpg",
-         "banner":"https://m.media-amazon.com/images/S/pv-target-images/978fe6c6977ec35b6233a366362af570da7a9272e79fdbe5679c3b983e30f800._UR1920,1080_.jpg"
+         "trailer_url":"https://ninjaerp.com/HolyQuran/003-al-imran.mp3",
+         "title":"003-al-imran",
+         "thumbnail":"http://ninjaerp.com/testingimages/AdobeStock_600472160_Preview.jpeg",
+         "banner":""
       },
       {
          "id":"1",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
-         "title":"DOM",
-         "thumbnail":"https://m.media-amazon.com/images/S/pv-target-images/015b102c8ab8d56440b1a494cc1413f48fc6a61730994bc77383476dd8c4047b._UR2000,3000_.jpg",
-         "banner":"https://m.media-amazon.com/images/S/pv-target-images/954e29100302a537de68af075e1204f858c04c03bc1a7b2bc1a20de9873bdd21._UR1920,1080_.jpg"
+         "trailer_url":"https://ninjaerp.com/HolyQuran/004-an-nisa.mp3",
+         "title":"004-an-nisa",
+         "thumbnail":"http://ninjaerp.com/testingimages/AdobeStock_600472160_Preview.jpeg",
+         "banner":""
       },
       {
          "id":"1",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
-         "title":"Happy Family Conditions Apply",
-         "thumbnail":"https://m.media-amazon.com/images/S/pv-target-images/3041e47a54120640eb58dc88195ebcd8d2962782672a8b6979cbae4326737acd._UR2000,3000_.jpg",
-         "banner":"https://m.media-amazon.com/images/S/pv-target-images/9c4d3161c6c4772d9dd7eb650e2ae5a013c90079d880686929189110105616e4._UR1920,1080_.jpg"
+         "trailer_url":"https://ninjaerp.com/HolyQuran/005-al-maidah.mp3",
+         "title":"005-al-maidah",
+         "thumbnail":"http://ninjaerp.com/testingimages/AdobeStock_352217708_Preview.jpeg",
+         "banner":""
       },
       {
          "id":"1",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
-         "title":"Farzi",
-         "thumbnail":"https://m.media-amazon.com/images/S/pv-target-images/c3409cb9e64b931584b713eb4911ef9bea53ef4fa2ddd83224e07dd42c3c88ef._UR2000,3000_.jpg",
-         "banner":"https://m.media-amazon.com/images/S/pv-target-images/8aed532f0875925f72c4012aab688ed409773ecbfb3b18e1a39cd9ad1a4dd485._UR1920,1080_.jpg"
+         "trailer_url":"https://ninjaerp.com/HolyQuran/006-al-anam.mp3",
+         "title":"006-al-anam",
+         "thumbnail":"http://ninjaerp.com/testingimages/AdobeStock_352217708_Preview.jpeg",
+         "banner":""
       },
       {
          "id":"1",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
-         "title":"Mirzapur",
-         "thumbnail":"https://m.media-amazon.com/images/S/pv-target-images/5ddf17c0744f2d5d0a792545d380899eee506b5d99954a4ef000ee18840f81b9._UR2000,3000_.jpg",
-         "banner":"https://m.media-amazon.com/images/S/pv-target-images/2f5c9e434c0e6517ef9d8d0580134f6afde4890cdf57df3a870e8d69a46afb02._UR1920,1080_.jpg"
+         "trailer_url":"https://ninjaerp.com/HolyQuran/007-al-araf.mp3",
+         "title":"007-al-araf",
+         "thumbnail":"http://ninjaerp.com/testingimages/AdobeStock_352217708_Preview.jpeg",
+         "banner":""
       },
       {
          "id":"1",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
-         "title":"The Family Man",
-         "thumbnail":"https://m.media-amazon.com/images/S/pv-target-images/3fada916232eb9d5a8cd1ec981cbab1e7baa791546cb7180056c4b36759c5014._UR2000,3000_.jpg",
-         "banner":"https://m.media-amazon.com/images/S/pv-target-images/9c4d3161c6c4772d9dd7eb650e2ae5a013c90079d880686929189110105616e4._UR1920,1080_.jpg"
+         "trailer_url":"https://ninjaerp.com/HolyQuran/008-al-anfal.mp3",
+         "title":"008-al-anfal",
+         "thumbnail":"http://ninjaerp.com/testingimages/AdobeStock_352217708_Preview.jpeg",
+         "banner":""
       },
       {
          "id":"1",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
-         "title":"The Boys",
-         "thumbnail":"https://m.media-amazon.com/images/S/pv-target-images/1a7c85becdd48b307cdecfb96e8e43690095bf30cf56d0cb7c7d542f1aa4b530._UR2000,3000_.png",
-         "banner":"https://m.media-amazon.com/images/S/pv-target-images/a008b073c68fc474ed6397e84cb4436c5e26d3bfdbcc6fcc16e122c37351c944._UR1920,1080_.jpg"
-      },
-      {
-         "id":"1",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
-         "title":"Tom Clancy&#39;s Jack Ryan",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/009-at-taubah.mp3",
+         "title":"009-at-taubah",
          "thumbnail":"https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/JKRY_S3/IN/en_IN/POSTER_ART/CLEAN/HolidayArt2._UR2000,3000_.jpg",
          "banner":"https://m.media-amazon.com/images/S/pv-target-images/fba53fc76ea725769451e68c1fdf7b44058eb5ed9ab806335c0bf6854dac9bcc._UR1920,1080_.jpg"
       },
       {
          "id":"1",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
-         "title":"Reacher",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/010-yunus.mp3",
+         "title":"010-yunus",
          "thumbnail":"https://m.media-amazon.com/images/S/pv-target-images/9c4c7c4270b676d009a9a0a395334f678869df4e227ad3e98b8f5d3161c67dad._UR2000,3000_.jpg",
          "banner":"https://m.media-amazon.com/images/S/pv-target-images/56d391fc82789f8a0f04649842743bc853bebf2619d45d85e3486fb25a8f2d66._UR1920,1080_.png"
       },
       {
          "id":"1",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
-         "title":"Inside Edge",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/011-hud.mp3",
+         "title":"011-hud",
          "thumbnail":"https://m.media-amazon.com/images/S/pv-target-images/e8571c61ffcb6c287ed54fa3d0655e6afee21cbbbd723c75f5df5da17383c9f7._UR2000,3000_.jpg",
          "banner":"https://m.media-amazon.com/images/S/pv-target-images/846480559abe60b7718709966edb2bf005d001ce65de436aa607a2affd90aaf2._UR1920,1080_.jpg"
       },
       {
          "id":"1",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
-         "title":"Carnival Row",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/012-yusuf.mp3",
+         "title":"012-yusuf",
          "thumbnail":"https://m.media-amazon.com/images/S/pv-target-images/8793477e37c6ac1e845f178afef98edec9bfed7d96e8d929c803e21b131aee6a._UR2000,3000_.png",
          "banner":"https://m.media-amazon.com/images/S/pv-target-images/56d391fc82789f8a0f04649842743bc853bebf2619d45d85e3486fb25a8f2d66._UR1920,1080_.png"
       },
       {
          "id":"1",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
-         "title":"Paatal Lok",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/013-ar-rad.mp3",
+         "title":"013-ar-rad",
          "thumbnail":"https://m.media-amazon.com/images/S/pv-target-images/25a547658fef77f143cf09dee44d2d5d6482ed0cbc1175ad8740238b1727dea3._UR2000,3000_.jpg",
          "banner":"https://m.media-amazon.com/images/S/pv-target-images/d3fc873130a8be86455f12d04aefd452edadb7bf15a5a3447d38fc50213f946a._UR1920,1080_.jpg"
       },
       {
          "id":"1",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
-         "title":"Breathe: Into The Shadows",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/014-ibrahim.mp3",
+         "title":"014-ibrahim",
          "thumbnail":"https://m.media-amazon.com/images/S/pv-target-images/8d829dff8d926713a4b8f07dfa86a960f56f3ca824de1d56e3288108152aabbc._UR2000,3000_.jpg",
          "banner":"https://m.media-amazon.com/images/S/pv-target-images/cec95d130b596c321418df588e516f18a28b110d933f41afaaec927e6a546947._UR1920,1080_.jpg"
       },
       {
          "id":"1",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
-         "title":"The Lord of the Rings: The Rings of Power",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/015-al-hijr.mp3",
+         "title":"015-al-hijr",
          "thumbnail":"https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/LTUM_S1/IN/en_IN/POSTER_ART/CLEAN/QUEENHELMET._UR2000,3000_.jpg",
          "banner":"https://m.media-amazon.com/images/S/pv-target-images/0deac613dd3404a82086eb1269edf3cd8ebe2a461b462385a7d6e8269c599e47._UR1920,1080_.png"
       },
       {
          "id":"1",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
-         "title":"Four More Shots Please!",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/016-an-nahl.mp3",
+         "title":"016-an-nahl",
          "thumbnail":"https://m.media-amazon.com/images/S/pv-target-images/e0a84249879ed921c90e600eebbcd471ec0545b7ad39730ed4e58b92d6f9e85a._UR2000,3000_.jpg",
          "banner":"https://m.media-amazon.com/images/S/pv-target-images/f97c1e8149fa052e3f4ee20f26c652fce6793ee2834bfdb7f5e19166745020d6._UR1920,1080_.jpg"
       },
       {
          "id":"1",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
-         "title":"S.O.Z: Soldiers or Zombies",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/017-al-isra.mp3",
+         "title":"017-al-isra",
          "thumbnail":"https://m.media-amazon.com/images/S/pv-target-images/ada94f92c9b226ec4164cf27b050562f4270750fac8c13b0a288a60b0ca6606e._UR2000,3000_.png",
          "banner":"https://m.media-amazon.com/images/S/pv-target-images/9a8dc044747d46e9e597a09ab3f3fa1103bad8e378b5b64a98143753994ac155._UR1920,1080_.jpg"
       },
       {
          "id":"1",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
-         "title":"The Terminal List",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/018-al-kahf.mp3",
+         "title":"018-al-kahf",
          "thumbnail":"https://m.media-amazon.com/images/S/pv-target-images/bae0b5a678d35bf946c869f8c275886b8c7704d56113a33a8b03e66438e75d24._UR2000,3000_.jpg",
          "banner":"https://m.media-amazon.com/images/S/pv-target-images/38141ca451541bfd5fe349ab12cf1b15d666e8ce50cd85dc446fa8baf24ffc94._UR1920,1080_.png"
       },
       {
          "id":"1",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
-         "title":"Suzhal - The Vortex",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/019-maryam.mp3",
+         "title":"019-maryam",
          "thumbnail":"https://m.media-amazon.com/images/S/pv-target-images/23e919b6901478412106495c313f208b4337125891c10912d042b6a4cdb75fcf._UR2000,3000_.png",
          "banner":"https://m.media-amazon.com/images/S/pv-target-images/d1a62d1909e5d2c6f2fe6d6072a69b962acfc7335e2b7046268b3f76a4fbcc9c._UR1920,1080_.png"
       },
       {
          "id":"9",
-         "title":"Thor the dark world",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/020-ta-ha.mp3",
+         "title":"020-ta-ha",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/thorthedarkworld_lob_crd_02_1.jpg",
          "banner":"http://pixeldev.in/webservices/movie_app/movie_admin/banner_images/thor_tdw.jpg"
       },
 
       {
          "id":"11",
-         "title":"guardians of the galaxy",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "title":"021-al-anbiya",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/021-al-anbiya.mp3",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/guardiansofthegalaxy_lob_crd_03.jpg",
          "banner":"http://pixeldev.in/webservices/movie_app/movie_admin/banner_images/gog_2.jpg"
       },
       {
          "id":"12",
-         "title":"Avengers Age Of Ultron",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "title":"022-al-hajj",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/022-al-hajj.mp3",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/avengersageofultron_lob_crd_03.jpg",
          "banner":"http://pixeldev.in/webservices/movie_app/movie_admin/banner_images/age_of_ultron.jpg"
       },
       {
          "id":"13",
-         "title":"AntMan",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "title":"023-al-muminun",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/023-al-muminun.mp3",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/ant-man_lob_crd_01_8.jpg",
          "banner":"http://pixeldev.in/webservices/movie_app/movie_admin/banner_images/ant_1.jpg"
       },
       {
          "id":"15",
-         "title":"Doctor Strange",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "title":"024-an-nur",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/024-an-nur.mp3",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/doctorstrange_lob_crd_01_6.jpg",
          "banner":"http://pixeldev.in/webservices/movie_app/movie_admin/banner_images/doctor_strange.jpg"
       },
       {
          "id":"16",
-         "title":"guardians of the galaxy VOL 2",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "title":"025-al-furqan",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/025-al-furqan.mp3",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/guardiansofthegalaxyvol.2_lob_crd_01.jpg",
          "banner":"http://pixeldev.in/webservices/movie_app/movie_admin/banner_images/gog_2.jpg"
       },
       {
          "id":"17",
-         "title":"SpiderMan - Homecoming ",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "title":" 026-ash-shuara",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/026-ash-shuara.mp3",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/spider-manhomecoming_lob_crd_01_3.jpg",
          "banner":"http://pixeldev.in/webservices/movie_app/movie_admin/banner_images/home.jpg"
       },
       {
          "id":"1",
-         "title":"IronMan",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "title":"027-an-naml",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/027-an-naml.mp3",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/ironman_lob_crd_01_3.jpg",
          "banner":"https://wallpapercave.com/wp/wp3405080.jpg"
       },
       {
          "id":"3",
-         "title":"Incredible Hulk",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "title":"028-al-qasas",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/028-al-qasas.mp3",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/theincrediblehulk_lob_crd_01_2.jpg",
          "banner":"https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/03/The-Incredible-Hulk-2.jpg"
       },
       {
          "id":"4",
-         "title":"Iron Man 2",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "title":"029-al-ankabut",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/029-al-ankabut.mp3",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/ironman2_lob_crd_01_3.jpg",
          "banner":"http://wallpaperstock.net/iron-man-2-poster%2C---movies_wallpapers_57551_852x480.jpg"
       },
       {
          "id":"5",
-         "title":"Thor",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "title":"030-ar-rum",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/030-ar-rum.mp3",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/thor_lob_crd_01.jpg",
          "banner":"https://wallpaperaccess.com/full/645142.jpg"
       },
       {
          "id":"8",
-         "title":"Iron Man 3",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "title":"031-luqman",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/031-luqman.mp3",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/ironman3_lob_crd_01_10.jpg",
          "banner":"https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/4294/674294-h"
       },
       {
          "id":"25",
-         "title":"Joker",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "title":"032-as-sajdah",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/032-as-sajdah.mp3",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/joker.jpg",
          "banner":"https://www.joker.movie/images/share.jpg"
       },
       {
          "id":"26",
-         "title":"Wonder Woman (2017)",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "title":"033-al-ahzab",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/033-al-ahzab.mp3",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/ww2017.jpg",
          "banner":"http://media.comicbook.com/2017/05/screen-shot-2017-05-22-at-11-17-45-am-998115.png"
       },
       {
          "id":"27",
-         "title":"AquaMan",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "title":"034-saba",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/034-saba.mp3",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/aquaman.jpg",
          "banner":"https://pbs.twimg.com/media/Ds6O-u4U4AECCXJ?format=jpg&title=900x900"
       },
       {
          "id":"28",
-         "title":"Wonder Woman 1984 (2020)",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "title":"035-fatir",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/035-fatir.mp3",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/ww84.jpg",
          "banner":"https://heroichollywood.com/wp-content/uploads/2020/02/Gal_Gadot_Wonder_Woman.jpg"
       },
       {
          "id":"29",
-         "title":"Batman Begin (2005)",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "title":"036-ya-sin",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/036-ya-sin.mp3",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/batman_2005.jpg",
          "banner":"https://i.ytimg.com/vi/NJc6p8huN5Q/maxresdefault.jpg"
       },
       {
          "id":"30",
-         "title":"The Dark Knight",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "title":"037-as-saffat",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/037-as-saffat.mp3",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/batman_2008.jpg",
          "banner":"https://cdn.flickeringmyth.com/wp-content/uploads/2020/02/dark-knight-poster-banner-600x319.jpg"
       },
       {
          "id":"32",
-         "title":"Man Of Steel",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "title":"038-sad",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/038-sad.mp3",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/manofsteel_thumb_192x291_52ab977d243284.01494825.jpg",
          "banner":"https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/03/The-Incredible-Hulk-2.jpg"
       },
       {
          "id":"33",
-         "title":"venom",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "title":"039-az-zumar",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/039-az-zumar.mp3",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/venom.png",
          "banner":""
       },
       {
          "id":"34",
-         "title":"spectre",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "title":"040-ghafir",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/040-ghafir.mp3",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/spectre.jpg",
          "banner":""
       },
       {
          "id":"35",
-         "title":"TENET",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "title":"041-fussilat",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/041-fussilat.mp3",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/tenet.jpg",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"042-ash-shura",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/042-ash-shura.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"043-az-zukhruf",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/043-az-zukhruf.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"044-ad-dukhan",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/044-ad-dukhan.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"045-al-jathiyah",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/045-al-jathiyah.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"046-al-ahqaf",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/046-al-ahqaf.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"047-muhammad",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/047-muhammad.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"048-al-fath",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/048-al-fath.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"049-al-hujurat",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/049-al-hujurat.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"050-qaf",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/050-qaf.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"051-adh-dhariyat",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/051-adh-dhariyat.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"052-at-tur",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/052-at-tur.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"053-an-najm",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/053-an-najm.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"054-al-qamar",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/054-al-qamar.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"055-ar-rahman",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/055-ar-rahman.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"056-al-waqiah",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/056-al-waqiah.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"057-al-hadid",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/057-al-hadid.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"058-al-mujadilah",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/058-al-mujadilah.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"059-al-hashr",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/059-al-hashr.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"060-al-mumtahanah",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/060-al-mumtahanah.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"061-as-saff",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/061-as-saff.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"062-al-jumuah",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/062-al-jumuah.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"063-al-munafiqun",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/063-al-munafiqun.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"064-at-taghabun",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/064-at-taghabun.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"065-at-talaq",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/065-at-talaq.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"066-at-tahrim",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/066-at-tahrim.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"067-al-mulk",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/067-al-mulk.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"068-al-qalam",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/068-al-qalam.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"069-al-haqqah",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/069-al-haqqah.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"070-al-maarij",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/070-al-maarij.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"071-nuh",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/071-nuh.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"072-al-jinn",
+         "trailer_url":"https://ninjaerp.com/072-al-jinn.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"073-al-muzammil",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/073-al-muzammil.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"074-al-muddaththir",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/074-al-muddaththir.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"075-al-qiyamah",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/075-al-qiyamah.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"076-al-insan",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/076-al-insan.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"077-al-mursalat",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/077-al-mursalat.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"078-an-naba",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/078-an-naba.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"079-an-naziat",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/079-an-naziat.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"080-abasa",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/080-abasa.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"081-at-takwir",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/081-at-takwir.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"082-al-infita",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/082-al-infitar.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"083-al-mutaffifin",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/083-al-mutaffifin.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"084-al-inshiqaq",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/084-al-inshiqaq.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"085-al-buruj",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/085-al-buruj.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"086-at-tariq",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/086-at-tariq.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"087-al-ala",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/087-al-ala.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"088-al-ghashiyah",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/088-al-ghashiyah.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"089-al-fajr",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/089-al-fajr.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"090-al-balad",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/090-al-balad.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"091-ash-shams",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/091-ash-shams.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"092-al-lail",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/092-al-lail.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"093-ad-duha",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/093-ad-duha.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"094-ash-sharh",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/094-ash-sharh.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"095-at-tin",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/095-at-tin.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"096-al-alaq",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/096-al-alaq.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"097-al-qad",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/097-al-qadr.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"098-al-baiyyinah",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/098-al-baiyyinah.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"099-az-zalzalah",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/099-az-zalzalah.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"100-al-adiyat",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/100-al-adiyat.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"101-al-qariah",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/101-al-qariah.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"102-at-takathur",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/102-at-takathur.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
          "banner":""
       },
 
       {
          "id":"37",
-         "title":"Jumanji-Welcome to the Jungle",
-         "trailer_url":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_video/nature_1.mp4",
+         "title":"103-al-asr",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/103-al-asr.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"104-al-humazah",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/104-al-humazah.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"105-al-fil",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/105-al-fil.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"106-quraish",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/106-quraish.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"107-al-maun",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/107-al-maun.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"108-al-kauthar",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/108-al-kauthar.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"109-al-kafirun",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/109-al-kafirun.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"110-an-nasr",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/110-an-nasr.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"111-al-masad",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/111-al-masad.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"112-al-ikhlas",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/112-al-ikhlas.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"113-al-falaq",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/113-al-falaq.mp3",
+         "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
+         "banner":""
+      },
+      {
+         "id":"37",
+         "title":"114-an-nas",
+         "trailer_url":"https://ninjaerp.com/HolyQuran/114-an-nas.mp3",
          "thumbnail":"http://pixeldev.in/webservices/movie_app/movie_admin/movie_thumbnail/Jumanji_Welcome_to_the_Jungle.png",
          "banner":""
       }

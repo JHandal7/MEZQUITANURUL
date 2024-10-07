@@ -182,7 +182,7 @@ fun MovieItemCard(item: MovieModel?, modifier: Modifier) {
                 },
                 modifier = Modifier
                     .fillMaxWidth()
-                    .height(220.dp),
+                    .height(100.dp),
 
                 loading = {
                     painterResource(R.drawable.placeholder_image)
@@ -194,10 +194,12 @@ fun MovieItemCard(item: MovieModel?, modifier: Modifier) {
                 modifier = Modifier
                     .padding(start = 4.dp, top = 4.dp)
                     .fillMaxWidth(),
-                maxLines = 1,
+                maxLines = 3,
                 overflow = TextOverflow.Ellipsis,
                 textAlign = TextAlign.Center
-                , fontStyle = FontStyle.Normal
+                , fontStyle = FontStyle.Italic,
+
+
             )
             Spacer(modifier = Modifier.height(10.dp))
         }
