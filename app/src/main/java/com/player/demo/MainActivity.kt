@@ -83,7 +83,7 @@ class MainActivity : ComponentActivity() {
 
     }
 
-}
+}// New Blue
 
 @Preview(showBackground = true)
 @Composable
