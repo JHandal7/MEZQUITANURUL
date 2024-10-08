@@ -8,7 +8,7 @@
 
     <application
         android:allowBackup="true"
-        app:shutter_background_color="@color/white"
+        app:shutter_background_color="@color/teal_200"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"

@@ -58,6 +58,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
+import androidx.media3.common.C
 import coil.compose.AsyncImage
 import coil.compose.SubcomposeAsyncImage
 import coil.compose.rememberAsyncImagePainter
@@ -101,7 +102,8 @@ fun ListViewContent() {
             TopAppBar(title = {
                 Column(modifier = Modifier.padding(4.dp)) {
                     Text(
-                        text = "ExoPlayer Demo",
+                        text = "SAGRADO CÓRAN",
+                        color = Color.Green,
                         modifier = Modifier.wrapContentHeight(align = Alignment.CenterVertically)
                     )
                 }
@@ -198,6 +200,7 @@ fun MovieItemCard(item: MovieModel?, modifier: Modifier) {
                 overflow = TextOverflow.Ellipsis,
                 textAlign = TextAlign.Center
                 , fontStyle = FontStyle.Italic,
+                color = Color.Blue
 
 
             )
