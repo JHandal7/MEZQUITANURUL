@@ -103,7 +103,7 @@ fun ListViewContent() {
                 Column(modifier = Modifier.padding(4.dp)) {
                     Text(
                         text = "SAGRADO CÓRAN",
-                        color = Color.Green,
+                        color = Color.Blue,
                         modifier = Modifier.wrapContentHeight(align = Alignment.CenterVertically)
                     )
                 }
