@@ -1,4 +1,4 @@
-package com.player.demo.model
+package com.player.handal.model
 
 import com.google.gson.annotations.SerializedName
 

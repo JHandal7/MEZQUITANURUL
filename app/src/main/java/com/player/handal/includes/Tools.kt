@@ -1,11 +1,11 @@
-package com.player.demo.includes
+package com.player.handal.includes
 
 
 import android.content.Context
 import android.util.Log
 import com.google.gson.Gson
-import com.player.demo.model.MovieModel
-import com.player.demo.model.MovieResponse
+import com.player.handal.model.MovieModel
+import com.player.handal.model.MovieResponse
 import java.io.IOException
 import java.io.InputStream
 

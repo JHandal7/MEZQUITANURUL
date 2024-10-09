@@ -1,4 +1,4 @@
-package com.player.demo.ui.theme
+package com.player.handal.ui.theme
 
 import android.app.Activity
 import android.os.Build

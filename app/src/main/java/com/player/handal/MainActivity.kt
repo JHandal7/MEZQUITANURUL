@@ -1,4 +1,4 @@
-package com.player.demo
+package com.player.handal
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -65,9 +65,10 @@ import coil.compose.rememberAsyncImagePainter
 import coil.compose.rememberImagePainter
 import coil.network.HttpException
 import coil.request.ImageRequest
-import com.player.demo.includes.Tools.parseJsonFromAssets
-import com.player.demo.model.MovieModel
-import com.player.demo.ui.theme.ExoplayerComposeTheme
+import com.player.handal.R
+import com.player.handal.includes.Tools.parseJsonFromAssets
+import com.player.handal.model.MovieModel
+import com.player.handal.ui.theme.ExoplayerComposeTheme
 
 
 class MainActivity : ComponentActivity() {

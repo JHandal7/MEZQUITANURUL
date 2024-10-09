@@ -19,12 +19,12 @@
         android:usesCleartextTraffic="true"
         tools:targetApi="31">
         <activity
-            android:name=".VideoPlayerActivity"
+            android:name="com.player.handal.VideoPlayerActivity"
             android:configChanges="orientation|screenSize|layoutDirection|keyboardHidden"
 
             />
         <activity
-            android:name=".MainActivity"
+            android:name="com.player.handal.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.ExoplayerCompose">

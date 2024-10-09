@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.player.demo"
+    namespace = "com.player.handal"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.player.demo"
+        applicationId = "com.player.handal"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
