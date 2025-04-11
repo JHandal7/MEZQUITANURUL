@@ -1,0 +1,15 @@
+version: '2.1'
+orbs:
+  android: circleci/android@1.0.3
+  jq: circleci/jq@2.2.0
+  appgalleryconnect: devwithzachary/appgalleryconnect@0.2.0
+workflows:
+  use-my-orb:
+    jobs:
+      - appgalleryconnect/upload:
+          appid: 'com.player.handal'
+          clientid: test
+          path: ~/build/apk/android.apk
+          secret: test
+          suffix: apk
+          test: 'false'
