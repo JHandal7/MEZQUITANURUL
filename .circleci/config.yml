@@ -8,7 +8,7 @@ workflows:
     jobs:
       - appgalleryconnect/upload:
           appid: 'com.player.handal'
-          clientid: test
+          clientid: com.player.handal
           path: ~/build/apk/android.apk
           secret: test
           suffix: apk
